@@ -1,1 +1,7 @@
-mylogs.log
+# mylogs.log this is for all file.
+
+# / is for only same root file.
+# /mylogs.log
+
+# *.log is for all file.
+*.log
